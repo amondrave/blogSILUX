@@ -42,7 +42,7 @@ h6 {
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(220, 220, 220, 0.65);
 }
 
 /* Map */
@@ -93,7 +93,7 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("../img/bg-masthead.jpg");
+  background: -webkit-gradient(linear, left top, right top, from(rgba(220, 220, 220, 0.15)), to(rgba(255, 255, 255, 0.1))), url("../img/bg-masthead.jpg");
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
   background-position: center center;
   background-repeat: no-repeat;
@@ -127,7 +127,7 @@ h6 {
   -webkit-transform: translateX(250px);
   transform: translateX(250px);
   background: #1D809F;
-  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  border-left: 1px solid rgba(220, 220, 220, 0.15);
 }
 
 .sidebar-nav {
@@ -142,7 +142,7 @@ h6 {
 .sidebar-nav li.sidebar-nav-item a {
   display: block;
   text-decoration: none;
-  color: #fff;
+  color: #fffff9;
   padding: 15px;
 }
 
@@ -168,11 +168,11 @@ h6 {
 }
 
 .sidebar-nav > .sidebar-brand a {
-  color: #fff;
+  color: #ffffff9;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
-  color: #fff;
+  color: #fffff0;
   background: none;
 }
 
@@ -201,7 +201,7 @@ h6 {
 }
 
 .menu-toggle:hover {
-  background: #343a40;
+  background: #343b50;
 }
 
 .service-icon {
@@ -254,7 +254,7 @@ h6 {
 }
 
 .portfolio-item .caption .caption-content {
-  color: #fff;
+  color: #fffff9;
   margin: auto 2rem 2rem;
 }
 
